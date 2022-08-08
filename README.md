@@ -7,7 +7,7 @@ I'm always curious about new and emerging technologies which drives me to stay u
 
 - 💞️ I’m looking out for any opportunities that involve Machine Learning or Deep Learning, Computer Vision, Data Engineering, Data Analysis and Visualization. I love transforming data into a more visual representation to depict various insights that we can grab from it. Data is here to stay so why not try to understand it better? 
 
-- 📫 You can always reach me on my email: kcxsid@gmail.com or via my LinkedIn: https://www.linkedin.com/in/s1ddharth/
+- 📫 You can always reach me on my email: kcxsid@gmail.com or via my LinkedIn: linkedin.com/in/s1ddharth/
 
 Hope you have a good day! 
 
